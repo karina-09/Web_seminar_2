@@ -1,0 +1,27 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(251, 255, 0);
+}
+h3{
+    color: blueviolet;
+}
+a{
+    color: rgb(0, 0, 0);
+}
+html{
+    background-color: rgba(227, 196, 155, 0.758);
+}
+img{
+    width: 500px;
+}
+.big_text{
+    font-size: 1rem;
+}
+ul{
+    list-style-type: square;
+}
+a:hover{
+    color: rgb(115, 0, 255);
+}
